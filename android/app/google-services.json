@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473335042909",
+    "project_id": "b2bexchange-8d5f2",
+    "storage_bucket": "b2bexchange-8d5f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473335042909:android:d787b7c4f87fa16fcd8eb4",
+        "android_client_info": {
+          "package_name": "com.example.b2b_exchange_development_version"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpLK0KBu2vViXtizF6lPP0IgUO0CBkOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+{
+  "categories":[
+    {
+      "name": "Mens",
+      "subcategories": [
+        "Jeans",
+        "Shirt",
+        "T-shirt",
+        "Jacket",
+        "Sportwear",
+        "Suit"
+      ]
+    },
+    {
+      "name": "Kids",
+      "subcategories": [
+        "Baby jeans",
+        "Baby t-shirt",
+        "Baby Shots",
+        "Baby Jacket",
+        "Baby overall",
+        "Baby suit"
+      ]
+    },
+    {
+      "name": "Womens",
+      "subcategories": [
+        "Dress",
+        "jeans",
+        "Tshirt",
+        "Saree",
+        "Sportwear",
+        "Skirt"
+      ]
+    }
+  ]
+}
